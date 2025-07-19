@@ -1,4 +1,4 @@
-# CRUD BACKEND NUR
+# CRUD FRONTEND NUR
 
 Desarrollado por *Juan Carlos Acho Ayala*  
 🕒 Tiempo estimado de desarrollo: 2 horas
